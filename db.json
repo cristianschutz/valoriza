@@ -1,0 +1,37 @@
+{
+  "benefits": [
+    {
+      "id": 1,
+      "title": "Tidal",
+      "body": "Tidal Hi-Fi: 3 meses grátis",
+      "image": "https://via.placeholder.com/600x400.png/660099/fff?text=1"
+    },
+    {
+        "id": 2,
+        "title": "Natura Exclusivo!",
+        "body": "30% de desconto em mouse, teclados e muito mais!",
+        "image": "https://via.placeholder.com/600x400.png/660099/fff?text=2"
+    },
+    {
+        "id": 3,
+        "title": "Duolingo",
+        "body": "3 meses grátis de Duolingo Plus",
+        "image": "https://via.placeholder.com/600x400.png/660099/fff?text=3"
+    },
+    {
+        "id": 4,
+        "title": "Loja Vivo",
+        "body": "15% de desconto na Fritadeira Elétrica Super Fryer Oster",
+        "image": "https://via.placeholder.com/600x400.png/660099/fff?text=4"
+    }
+  ],
+  "profile": {
+    "name": "João da Silva",
+    "category": "Púrpura",
+    "badges": [
+        "https://via.placeholder.com/200x200.png/660099/fff?text=1",
+        "https://via.placeholder.com/200x200.png/660099/fff?text=2",
+        "https://via.placeholder.com/200x200.png/660099/fff?text=3"
+    ]
+  }
+}
